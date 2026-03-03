@@ -43,3 +43,19 @@ Yenepoya Institute of Arts, Science, Commerce and Management
 
 ## Developer
 Tania Khalid
+## UI Preview
+
+### Login Page
+![Login UI](screenshots/Screenshot 2026-03-03 at 13.16.06.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/Screenshot 2026-03-03 at 13.12.35.png)
+
+### Parent Dashboard
+![Parent Dashboard](screenshots/Screenshot 2026-03-03 at 13.10.48.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](screenshots/Screenshot 2026-03-03 at 13.14.19.png)
+
+### Analytics View
+![Analytics](screenshots/Screenshot 2026-03-03 at 13.15.13.png)
